@@ -1,4 +1,4 @@
-
+import Home from "../pages/HomePage/HomePage";
 import ProductSingle from "./ProductSinglePage/ProductSinglePage";
 import Search from "./SearchPage/SearchPage";
 
